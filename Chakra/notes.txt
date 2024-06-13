@@ -1,0 +1,19 @@
+// maxWidth="md"
+//import the components needed
+// Sending styles as props - normal props or variable/obj props styles
+//as tag to remove the default tag that uses
+
+//rfc
+
+//grid- more flexible
+//how many columns you need and its width- repeat(6,1fr)
+//colspan -
+
+//responsive styles {breakpoints}- docs
+//{{base:'pink'}}- first bracket for dynamic values, 2nd for object
+
+npm install
+npm i @chakra-ui/icons
+
+npm install -g json-server
+json-server -w ./data/db.json
